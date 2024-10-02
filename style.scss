@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    border: solid 2px black;
+    width: 750px;
+    height: 500px;
+    background-image: url("./IMG/IMG\ NETFLIX.jpeg");
+    background-repeat: no-repeat; // Serve para não repetir a imagem\\
+    background-size: cover; // Serve para preencher a caixa\\
+    background-position:center ; // Serve para posicionar a imagem\\
+    color: white;
+}
